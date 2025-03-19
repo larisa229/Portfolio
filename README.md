@@ -24,7 +24,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Implemented logic circuits for secure authentication.
 - Simulated and tested functionality in hardware design tools.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **Languages:** Java, SQL, VHDL
 - **Databases:** PostgreSQL
 - **Tools & Platforms:** IntelliJ IDEA, DataGrip, Vivado
