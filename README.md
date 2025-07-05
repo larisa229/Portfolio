@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Used PostgreSQL for database management with a structured schema.
 - Integrated Java for backend operations and data handling.
 
-### [Task Management System (Java, Serialization)](https://github.com/yourusername/task-manager)
+### [Task Management System (Java, Serialization)](https://github.com/larisa229/task-management)
 - Built a task management application using Java and file serialization.
 - Allows saving and loading tasks persistently.
 - Implements object-oriented principles for better modularity.
