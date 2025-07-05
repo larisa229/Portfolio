@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 
 ## Featured Projects
 
-### [Java Chess Engine](https://github.com/yourusername/chess-engine)
+### [Java Chess Engine](https://github.com/larisa229/chess-engine)
 - Developed a two-player chess game with move validation and checkmate detection.
 - Implemented object-oriented principles in Java.
 - Debugging checkmate logic to improve accuracy.
