@@ -19,7 +19,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Allows saving and loading tasks persistently.
 - Implements object-oriented principles for better modularity.
 
-### [VHDL Locker Encryption System](https://github.com/larisa229/Locker-Encryption-VHDL-.git)
+### [VHDL Locker Encryption System](https://github.com/larisa229/Locker-Encryption-VHDL.git)
 - Designed a digital lock encryption system using VHDL.
 - Implemented logic circuits for secure authentication.
 - Simulated and tested functionality in hardware design tools.
