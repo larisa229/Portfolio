@@ -5,24 +5,39 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 ## Featured Projects
 
 ### [Java Chess Engine](https://github.com/larisa229/chess-engine)
-- Developed a two-player chess game with move validation and checkmate detection.
-- Implemented object-oriented principles in Java.
-- Debugging checkmate logic to improve accuracy.
+- Developed a two-player chess game with full move validation and check/checkmate/stalemate detection.
+- Applied object-oriented principles to model pieces, boards, and game logic.
+- Implemented a modular design for easier maintenance and future AI integration.
 
 ### [Hotel Booking System (PostgreSQL + Java)](https://github.com/larisa229/Hotel-Booking.git)
-- Designed and implemented a database system for hotel reservations.
-- Used PostgreSQL for database management with a structured schema.
-- Integrated Java for backend operations and data handling.
+- Designed and implemented a complete hotel reservation database system.
+- Used PostgreSQL for managing reservations, clients, and room availability.
+- Integrated Java for backend operations including CRUD operations and data validation.
 
 ### [Task Management System (Java, Serialization)](https://github.com/larisa229/task-management)
-- Built a task management application using Java and file serialization.
-- Allows saving and loading tasks persistently.
-- Implements object-oriented principles for better modularity.
+- Built a task management application with persistent storage using Java serialization.
+- Features include adding, updating, and deleting tasks, calculating work durations and providing employee statistics.
+- Applied object-oriented principles for better modularity.
+- Implemented file-based persistence to allow saving and loading tasks between sessions.
+
+### [Thread Management System (Java, JavaFX, Concurrency)](https://github.com/larisa229/Thread-Management.git)
+- Developed a multi-threaded queue simulation system with multiple server threads.
+- Implemented scheduling strategies: shortest queue and shortest waiting time.
+- Built a JavaFX GUI with real-time vizualization of server queues, waiting cients, and statistics.
+- Automated calculation of average waiting time, average service time, and peak hour.
+- Included logging to both GUI and log files for tracking simulation events.
+
+### [Warehouse Management System (Java, JavaFX, DAO)](https://github.com/larisa229/Warehouse-Management.git)
+- Developed a complete warehouse/order management system with a JavaFX GUI.
+- Implemented CRUD operations for clients, products, and orders using the DAO pattern.
+- Integrated automatic bill generation and stock management.
+- Used reflection for dynamic TableView creation and generic DAO operations.
 
 ### [VHDL Locker Encryption System](https://github.com/larisa229/Locker-Encryption-VHDL.git)
 - Designed a digital lock encryption system using VHDL.
-- Implemented logic circuits for secure authentication.
-- Simulated and tested functionality in hardware design tools.
+- Created logic circuits for secure authentication and password validation.
+- Simulated and tested functionality using Vivado to ensure reliable operation.
+- Explored hardware description concepts and practical circuit design.
 
 ## Technologies Used
 - **Languages:** Java, SQL, VHDL
