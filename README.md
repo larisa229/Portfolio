@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Implemented object-oriented principles in Java.
 - Debugging checkmate logic to improve accuracy.
 
-### [Hotel Booking System (PostgreSQL + Java)](https://github.com/yourusername/hotel-booking-system)
+### [Hotel Booking System (PostgreSQL + Java)](https://github.com/yourusername/hotel-booking)
 - Designed and implemented a database system for hotel reservations.
 - Used PostgreSQL for database management with a structured schema.
 - Integrated Java for backend operations and data handling.
