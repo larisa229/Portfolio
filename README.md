@@ -33,6 +33,12 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Used PostgreSQL for managing reservations, clients, and room availability.
 - Integrated Java for backend operations including CRUD operations and data validation.
 
+### [Tic Tac Toe Game (Python, Pygame)](https://github.com/larisa229/Tic-Tac-Toe.git)
+- Developed a two-player game of Tic Tac Toe with a graphical interface using Pygame.
+- Players alternate placing Xs and Os on a 3x3 grid board with mouse clicks.
+- Wins and draws are detected automatically and signaled by highlighting the winning line in a different color.
+- Demonstrates event handling, game loop mechanics and image rendering in Python.
+
 ### [VHDL Locker Encryption System](https://github.com/larisa229/Locker-Encryption-VHDL.git)
 - Designed a digital lock encryption system using VHDL.
 - Created logic circuits for secure authentication and password validation.
