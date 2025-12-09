@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 
 ## Featured Projects
 
-### [Virtual Memory Simulator (Java, JavaFX, OS Simulation)] (https://github.com/larisa229/Virtual-Memory-Simulator.git) 
+### [Virtual Memory Simulator (Java, JavaFX, OS Simulation)](https://github.com/larisa229/Virtual-Memory-Simulator.git) 
 - Developed a complete virtual memory simulation system with a JavaFX GUI.
 - Implemented core OS components including page tables, TLB, physical frames, and page fault handling.
 - Built support for multiple page replacement policies: FIFO, LRU, Optimal, and Random.
