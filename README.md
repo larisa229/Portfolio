@@ -4,6 +4,13 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 
 ## Featured Projects
 
+### [Virtual Memory Simulator (Java, JavaFX, OS Simulation)] (https://github.com/larisa229/Virtual-Memory-Simulator.git) 
+- Developed a complete virtual memory simulation system with a JavaFX GUI.
+- Implemented core OS components including page tables, TLB, physical frames, and page fault handling.
+- Built support for multiple page replacement policies: FIFO, LRU, Optimal, and Random.
+- Created real-time visualization of memory state, frame usage, TLB contents, and per-process page tables.
+- Added trace parsing, step-by-step execution, and automatic performance metrics (TLB hit rate, page fault rate, disk writes).
+  
 ### [Warehouse Management System (Java, JavaFX, DAO)](https://github.com/larisa229/Warehouse-Management.git)
 - Developed a complete warehouse/order management system with a JavaFX GUI.
 - Implemented CRUD operations for clients, products, and orders using the DAO pattern.
