@@ -53,7 +53,13 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Built a full game loop with physics simulation, collision detection, animations, sound effects, and UI screens.
 - Added persistent high score tracking for both human and AI gameplay modes.
 
-### [VHDL Locker Encryption System](https://github.com/larisa229/Locker-Encryption-VHDL.git)
+### [MIPS Processor Implementation (VHDL)](https://github.com/larisa229/MIPS-VHDL-Processor.git)
+- Designed and implemented a simplified MIPS-style processor in VHDL.
+- Built the full datapath including instruction fetch, decode, execute, memory access, and write-back stages.
+- Implemented core components such as the control unit, ALU, register file, instruction memory, and data memory.
+- Supported R-type, I-type, and J-type instructions with branch and jump control logic.
+
+### [VHDL Locker Encryption System (VHDL)](https://github.com/larisa229/Locker-Encryption-VHDL.git)
 - Designed a digital lock encryption system using VHDL.
 - Created logic circuits for secure authentication and password validation.
 - Simulated and tested functionality using Vivado to ensure reliable operation.
