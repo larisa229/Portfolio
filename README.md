@@ -4,6 +4,11 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 
 ## Featured Projects
 
+### [Java Chess Engine](https://github.com/larisa229/chess-engine)
+- Developed a two-player chess game with full move validation and check/checkmate/stalemate detection.
+- Applied object-oriented principles to model pieces, boards, and game logic.
+- Implemented a modular design for easier maintenance and future AI integration.
+  
 ### [Virtual Memory Simulator (Java, JavaFX, OS Simulation)](https://github.com/larisa229/Virtual-Memory-Simulator.git) 
 - Developed a complete virtual memory simulation system with a JavaFX GUI.
 - Implemented core OS components including page tables, TLB, physical frames, and page fault handling.
@@ -23,11 +28,6 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Built a JavaFX GUI with real-time vizualization of server queues, waiting cients, and statistics.
 - Automated calculation of average waiting time, average service time, and peak hour.
 - Included logging to both GUI and log files for tracking simulation events.
-
-### [Java Chess Engine](https://github.com/larisa229/chess-engine)
-- Developed a two-player chess game with full move validation and check/checkmate/stalemate detection.
-- Applied object-oriented principles to model pieces, boards, and game logic.
-- Implemented a modular design for easier maintenance and future AI integration.
 
 ### [Task Management System (Java, Serialization)](https://github.com/larisa229/task-management)
 - Built a task management application with persistent storage using Java serialization.
