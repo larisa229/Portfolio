@@ -46,6 +46,13 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Wins and draws are detected automatically and signaled by highlighting the winning line in a different color.
 - Demonstrates event handling, game loop mechanics and image rendering in Python.
 
+### [Flappy Bird with Perceptron AI (Python, Pygame, Evolutionary Learning)](https://github.com/larisa229/Flappy-Bird-AI.git)
+- Developed a complete Flappy Bird game with both manual and AI-controlled gameplay modes.
+- Implemented a perceptron-based neural network to control autonomous agents in real time.
+- Applied evolutionary learning techniques like fitness evaluation, mutation, cloning, and speciation.
+- Built a full game loop with physics simulation, collision detection, animations, sound effects, and UI screens.
+- Added persistent high score tracking for both human and AI gameplay modes.
+
 ### [VHDL Locker Encryption System](https://github.com/larisa229/Locker-Encryption-VHDL.git)
 - Designed a digital lock encryption system using VHDL.
 - Created logic circuits for secure authentication and password validation.
@@ -53,6 +60,6 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Explored hardware description concepts and practical circuit design.
 
 ## Technologies Used
-- **Languages:** Java, SQL, VHDL
+- **Languages:** Java, Python, SQL, VHDL
 - **Databases:** PostgreSQL
-- **Tools & Platforms:** IntelliJ IDEA, DataGrip, Vivado
+- **Tools & Platforms:** IntelliJ IDEA, DataGrip, Vivado, PyCharm
