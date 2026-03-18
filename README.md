@@ -9,11 +9,6 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Built a FastAPI backend that serves a Scikit-learn model trained on a dataset of 18k emails using TF-IDF vectorization and Logistic Regression.
 - Designed a modern frontend using React.js featuring real-time scanning animations and dynamic confidence metrics.
 - Implemented custom NLP preprocessing logic to clean HTML tags, URLs, and noise from raw email text.
-
-### [Java Chess Engine](https://github.com/larisa229/chess-engine)
-- Developed a two-player chess game with full move validation and check/checkmate/stalemate detection.
-- Applied object-oriented principles to model pieces, boards, and game logic.
-- Implemented a modular design for easier maintenance and future AI integration.
   
 ### [Virtual Memory Simulator (Java, JavaFX, OS Simulation)](https://github.com/larisa229/Virtual-Memory-Simulator.git) 
 - Developed a complete virtual memory simulation system with a JavaFX GUI.
@@ -21,6 +16,11 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Built support for multiple page replacement policies: FIFO, LRU, Optimal, and Random.
 - Created real-time visualization of memory state, frame usage, TLB contents, and per-process page tables.
 - Added trace parsing, step-by-step execution, and automatic performance metrics (TLB hit rate, page fault rate, disk writes).
+
+### [Java Chess Engine](https://github.com/larisa229/chess-engine)
+- Developed a two-player chess game with full move validation and check/checkmate/stalemate detection.
+- Applied object-oriented principles to model pieces, boards, and game logic.
+- Implemented a modular design for easier maintenance and future AI integration.
   
 ### [Warehouse Management System (Java, JavaFX, DAO)](https://github.com/larisa229/Warehouse-Management.git)
 - Developed a complete warehouse/order management system with a JavaFX GUI.
@@ -31,7 +31,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 ### [Thread Management System (Java, JavaFX, Concurrency)](https://github.com/larisa229/Thread-Management.git)
 - Developed a multi-threaded queue simulation system with multiple server threads.
 - Implemented scheduling strategies: shortest queue and shortest waiting time.
-- Built a JavaFX GUI with real-time vizualization of server queues, waiting cients, and statistics.
+- Built a JavaFX GUI with real-time visualization of server queues, waiting cients, and statistics.
 - Automated calculation of average waiting time, average service time, and peak hour.
 - Included logging to both GUI and log files for tracking simulation events.
 
@@ -74,4 +74,4 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 ## Technologies Used
 - **Languages:** Java, Python, SQL, VHDL
 - **Databases:** PostgreSQL
-- **Tools & Platforms:** IntelliJ IDEA, DataGrip, Vivado, PyCharm
+- **Tools & Platforms:** IntelliJ IDEA, DataGrip, Vivado, PyCharm, FastAPI, React
