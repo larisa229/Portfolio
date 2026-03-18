@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 
 ## Featured Projects
 
-### [AI Phishing Detector](https://github.com/larisa229/AI-Phishing-Detector.git) 
+### [AI Phishing Detector (Python, FastAPI, React)](https://github.com/larisa229/AI-Phishing-Detector.git) 
 - Developed an end-to-end machine learning application to classify emails as legitimate or phishing attempts.
 - Built a FastAPI backend that serves a Scikit-learn model trained on a dataset of 18k emails using TF-IDF vectorization and Logistic Regression.
 - Designed a modern frontend using React.js featuring real-time scanning animations and dynamic confidence metrics.
