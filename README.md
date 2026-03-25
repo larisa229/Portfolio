@@ -9,6 +9,13 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Built a FastAPI backend that serves a Scikit-learn model trained on a dataset of 18k emails using TF-IDF vectorization and Logistic Regression.
 - Designed a modern frontend using React.js featuring real-time scanning animations and dynamic confidence metrics.
 - Implemented custom NLP preprocessing logic to clean HTML tags, URLs, and noise from raw email text.
+
+### [Flappy Bird with Perceptron AI (Python, Pygame, Evolutionary Learning)](https://github.com/larisa229/Flappy-Bird-AI.git)
+- Developed a complete Flappy Bird game with both manual and AI-controlled gameplay modes.
+- Implemented a perceptron-based neural network to control autonomous agents in real time.
+- Applied evolutionary learning techniques like fitness evaluation, mutation, cloning, and speciation.
+- Built a full game loop with physics simulation, collision detection, animations, sound effects, and UI screens.
+- Added persistent high score tracking for both human and AI gameplay modes.
   
 ### [Virtual Memory Simulator (Java, JavaFX, OS Simulation)](https://github.com/larisa229/Virtual-Memory-Simulator.git) 
 - Developed a complete virtual memory simulation system with a JavaFX GUI.
@@ -45,13 +52,6 @@ Welcome to my GitHub portfolio! Here, you’ll find a collection of my personal 
 - Designed and implemented a complete hotel reservation database system.
 - Used PostgreSQL for managing reservations, clients, and room availability.
 - Integrated Java for backend operations including CRUD operations and data validation.
-
-### [Flappy Bird with Perceptron AI (Python, Pygame, Evolutionary Learning)](https://github.com/larisa229/Flappy-Bird-AI.git)
-- Developed a complete Flappy Bird game with both manual and AI-controlled gameplay modes.
-- Implemented a perceptron-based neural network to control autonomous agents in real time.
-- Applied evolutionary learning techniques like fitness evaluation, mutation, cloning, and speciation.
-- Built a full game loop with physics simulation, collision detection, animations, sound effects, and UI screens.
-- Added persistent high score tracking for both human and AI gameplay modes.
 
 ### [MIPS Processor Implementation (VHDL)](https://github.com/larisa229/MIPS-VHDL-Processor.git)
 - Designed and implemented a simplified MIPS-style processor in VHDL.
